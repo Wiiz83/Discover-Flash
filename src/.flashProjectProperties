@@ -1,0 +1,23 @@
+<projectDescription>
+  <id>1385363730431</id>
+  <name>code</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/duponti/AppData/Local/Adobe/Flash CS4/fr/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/duponti/AppData/Local/Adobe/Flash CS4/fr/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///Z|/Windows/Bureau/Uzan_Lucas/code/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Ball.as">file:///Z|/Windows/Bureau/Uzan_Lucas/code/Ball.as</uri>
+    <uri label="Levels.as">file:///Z|/Windows/Bureau/Uzan_Lucas/code/Levels.as</uri>
+    <uri label="Raquette.as">file:///Z|/Windows/Bureau/Uzan_Lucas/code/Raquette.as</uri>
+    <uri label="CasseBriques.as">file:///Z|/Windows/Bureau/Uzan_Lucas/code/CasseBriques.as</uri>
+    <uri label="Brick.as">file:///Z|/Windows/Bureau/Uzan_Lucas/code/Brick.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
